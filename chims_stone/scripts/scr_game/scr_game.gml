@@ -11,6 +11,8 @@ function reset_game(){
 	global.player_deck = variable_clone(global.player_base_deck);
 	global.player_hand = [];
 	global.player_hand_max = 10;
+	
+	global.player_
 }
 
 function start_battle(){
