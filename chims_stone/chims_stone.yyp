@@ -34,7 +34,9 @@
   },
   "name":"chims_stone",
   "resources":[
+    {"id":{"name":"obj_game_system","path":"objects/obj_game_system/obj_game_system.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"scr_game","path":"scripts/scr_game/scr_game.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
