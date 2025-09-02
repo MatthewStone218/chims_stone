@@ -58,6 +58,13 @@
   "name":"chims_stone",
   "resources":[
     {"id":{"name":"ext_IME_helper","path":"extensions/ext_IME_helper/ext_IME_helper.yy",},},
+    {"id":{"name":"ft_default_scource_1","path":"fonts/ft_default_scource_1/ft_default_scource_1.yy",},},
+    {"id":{"name":"ft_default_scource_2","path":"fonts/ft_default_scource_2/ft_default_scource_2.yy",},},
+    {"id":{"name":"ft_default_scource_3","path":"fonts/ft_default_scource_3/ft_default_scource_3.yy",},},
+    {"id":{"name":"ft_default_scource_4","path":"fonts/ft_default_scource_4/ft_default_scource_4.yy",},},
+    {"id":{"name":"ft_default_scource_5","path":"fonts/ft_default_scource_5/ft_default_scource_5.yy",},},
+    {"id":{"name":"ft_default_scource_6","path":"fonts/ft_default_scource_6/ft_default_scource_6.yy",},},
+    {"id":{"name":"ft_default_scource_7","path":"fonts/ft_default_scource_7/ft_default_scource_7.yy",},},
     {"id":{"name":"scribble_fallback_font","path":"fonts/scribble_fallback_font/scribble_fallback_font.yy",},},
     {"id":{"name":"obj_battle_system","path":"objects/obj_battle_system/obj_battle_system.yy",},},
     {"id":{"name":"obj_card_image","path":"objects/obj_card_image/obj_card_image.yy",},},
