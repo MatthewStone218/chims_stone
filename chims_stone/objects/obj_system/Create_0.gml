@@ -3,6 +3,5 @@
 #macro TIME_SCALE (delta_time/1000000)
 #macro GAME_TIME_SCALE (global.game_speed*delta_time/1000000)
 
-reset_font();
 reset_game();
 reset_config();
