@@ -114,6 +114,7 @@
     {"id":{"name":"mattgui","path":"scripts/mattgui/mattgui.yy",},},
     {"id":{"name":"percent_to_real","path":"scripts/percent_to_real/percent_to_real.yy",},},
     {"id":{"name":"scr_config","path":"scripts/scr_config/scr_config.yy",},},
+    {"id":{"name":"scr_font","path":"scripts/scr_font/scr_font.yy",},},
     {"id":{"name":"scr_game","path":"scripts/scr_game/scr_game.yy",},},
     {"id":{"name":"scr_input","path":"scripts/scr_input/scr_input.yy",},},
     {"id":{"name":"scribble_add_macro","path":"scripts/scribble_add_macro/scribble_add_macro.yy",},},

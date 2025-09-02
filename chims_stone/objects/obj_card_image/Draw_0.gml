@@ -17,7 +17,7 @@ if(image_alpha > 0){
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_middle);
 	draw_set_color(c_white);
-	draw_set_font(ft_card);
+	draw_set_font(global.ft_card);
 	
 	var _name_width = 250;
 	var _scale = min(1,_name_width/string_width(name));
