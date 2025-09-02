@@ -5,5 +5,6 @@ if(_load_result == -1){
 	room_goto(global.room_start);
 } else {
 	alarm[0] = 1;
+	loading_count++;
 	loading_font_count = _load_result;
 }
