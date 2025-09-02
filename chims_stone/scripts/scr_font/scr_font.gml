@@ -15,8 +15,7 @@ function load_font(loading_font_count){
 		case 3: scribble_super_glyph_copy_all("ft_default", "ft_default_scource_6", true); break;
 		case 2: scribble_super_glyph_copy_all("ft_default", "ft_default_scource_7", true); break;
 		case 1: scribble_font_set_default("ft_default"); break;
-		case 0: return true;
 	}
 	
-	return false;
+	return loading_font_count-1;
 }
