@@ -12,7 +12,9 @@ function reset_game(){
 	global.player_hand = [];
 	global.player_hand_max = 10;
 	
-	global.player_
+	global.player_turn = true;
+	global.player_playable = false;
+	global.chain_stack = [];
 }
 
 function start_battle(){
@@ -26,6 +28,10 @@ function reset_battle(){
 	global.player_deck = variable_clone(global.player_base_deck);
 	global.player_hand = [];
 	global.player_hand_max = global.player_hand_base_max;
+	
+	global.player_turn = true;
+	global.player_playable = false;
+	global.chain_stack = [];
 }
 
 function set_first_hand(){
